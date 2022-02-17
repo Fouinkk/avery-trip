@@ -48,17 +48,17 @@ body .container .card .face.face1 img {
   width: 100px;
 }
 body .container .card .face.face1 .java {
-  background-color: white;
+  background-color: #fc00ff;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 body .container .card .face.face1 .python {
-  background-color: #fff;
+  background-color: #00fffc;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 body .container .card .face.face1 .cSharp {
-  background-color: #fff;
+  background-color: #fffc00;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
